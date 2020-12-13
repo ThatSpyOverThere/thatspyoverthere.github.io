@@ -1,7 +1,16 @@
-<html>
- <head>
- </head>
- <body>
-   <h1>Hello World<h1>
- </body>
-</html>
+<h1>Hey! Im Spy.</h1>
+<h2>A young python coder.</h2>
+<p>Im just learning HTML but I am more used to python.</p>
+<h2>Some project ive done:</h2>
+<ol>
+<li><img src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" />Translater GUI.</li>
+<li><img src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" />Simulation bulk bruteforcer.</li>
+<li><img src="https://html-online.com/img/03-docs-to-html.png" alt="Word to html" width="45" /> Word to HTML conversion</li>
+<li><img src="https://html-online.com/img/04-replace.png" alt="replace text" width="45" />Weather Webscraping.</li>
+<li><img src="https://html-online.com/img/05-gibberish.png" alt="gibberish" width="45" />Port Scanner</li>
+<li><img src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="45" />DDOS For penetration testing.</li>
+</ol>
+<p> </p>
+<h2>Leave a comment for other project ideas!</h2>
+<p></p>
+<p>I hope to advance in my work. I've had alot of fun doing this and I hope to share the journey with you!</p>
